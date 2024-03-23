@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002B\\insertToArray\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB239010-604A-4626-9829-14E7559CCB98}|insertToArray\\insertToArray.vcxproj|D:\\C\u002B\u002B\\insertToArray\\insertToArray\\insertToArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB239010-604A-4626-9829-14E7559CCB98}|insertToArray\\insertToArray.vcxproj|solutionrelative:insertToArray\\insertToArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "insertToArray.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B\\insertToArray\\insertToArray\\insertToArray.cpp",
+              "RelativeDocumentMoniker": "insertToArray\\insertToArray.cpp",
+              "ToolTip": "D:\\C\u002B\u002B\\insertToArray\\insertToArray\\insertToArray.cpp",
+              "RelativeToolTip": "insertToArray\\insertToArray.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-21T18:12:17.639Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
