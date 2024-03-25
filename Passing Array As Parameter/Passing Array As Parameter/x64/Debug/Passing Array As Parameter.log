@@ -1,0 +1,3 @@
+﻿  Passing Array As Parameter.cpp
+D:\c ++ Courses\c++ osama\C++\Passing Array As Parameter\Passing Array As Parameter\Passing Array As Parameter.cpp(20,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Passing Array As Parameter.vcxproj -> D:\c ++ Courses\c++ osama\C++\Passing Array As Parameter\x64\Debug\Passing Array As Parameter.exe
